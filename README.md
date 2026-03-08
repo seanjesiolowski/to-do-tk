@@ -5,8 +5,6 @@ A minimal to-do app built with Python and Tkinter.
 The UI was designed in [Figma](https://www.figma.com/) and converted to Tkinter code using [Tkinter Designer](https://github.com/ParthJadhav/Tkinter-Designer), then customized from there.
 
 <p align="center">
-  <img src="screenshots/no-tasks.png" width="250" alt="Empty state">
-  &nbsp;&nbsp;
   <img src="screenshots/tasks.png" width="250" alt="With tasks">
 </p>
 
